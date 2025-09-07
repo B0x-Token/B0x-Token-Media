@@ -1,1 +1,1 @@
-fonts here for b0x token
+fonts for webstie
